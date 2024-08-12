@@ -1,0 +1,8 @@
+Country,Category,Soil_Activity,PolicyName,Abstract,Link
+Australia,National Law,test1,Soil Conservation Act 1938,Established the Soil Conservation Service focusing on soil erosion control and soil resource conservation in New South Wales.,https://example.com/soil-conservation-act-1938
+Australia,National Strategy,test2,National Soil RD&E Strategy,"Outlines future research directions for improving soil management, including increasing agricultural productivity and quantifying soil assets.",https://example.com/national-soil-rde-strategy
+China,National Strategy,test3,National Strategy for Soil and Water Conservation,"Technical assistance for implementing national soil and water conservation strategies, focusing on revising the 1991 law.",https://example.com/china-soil-water-strategy
+European Union,International Treaty,test4,Thematic Strategy on Soil Protection,"Aims at sustainable use of soil, preservation of soil as a resource, and remediation of contaminated soil across EU member states.",https://example.com/thematic-strategy-soil-protection
+Global,International Treaty,test5,Convention on Long-Range Transboundary Air Pollution,An international treaty aimed at reducing and controlling air pollution and its effects on soils across multiple countries.,https://example.com/long-range-air-pollution
+United States,National Program,test6,Conservation Reserve Program (CRP),Pays farmers to remove land from agricultural production to prevent soil erosion and improve ecosystem functions.,https://example.com/crp
+Canada,National Program,test7,Agricultural Land Reserve Program,Prohibits development on agricultural land to preserve soil and agricultural resources in British Columbia.,https://example.com/alr
