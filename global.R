@@ -10,7 +10,11 @@ library(rnaturalearthdata)
 library(sf)
 
 # Load data
-soil_data <- read.csv("data/soil_regulations.csv")
+soil_data <- read.csv("data/SoilLEXdata modified.csv")
 
 # Load world map using rnaturalearth
 world <- ne_countries(scale = "medium", returnclass = "sf")
+
+
+
+###look at FAOLEX and ECOLEX 
