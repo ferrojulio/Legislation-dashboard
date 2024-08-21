@@ -1,0 +1,10 @@
+name: legislation_dashboard
+title:
+username: juliokeepsdigging
+account: juliokeepsdigging
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12487602
+bundleId: 9008444
+url: https://juliokeepsdigging.shinyapps.io/legislation_dashboard/
+version: 1
