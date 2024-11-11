@@ -8,6 +8,8 @@ library(dplyr)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(sf)
+library(plotly)
+
 
 # Load data
 soil_data <- read.csv("data/SoilLEXdata modified.csv")

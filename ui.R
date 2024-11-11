@@ -26,6 +26,7 @@ ui <- fluidPage(
         
         mainPanel(
             leafletOutput("worldMap", height = 600),
+            plotlyOutput("soilLexBarChart"),
             dataTableOutput("policyTable")
         )
     ),
